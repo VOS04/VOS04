@@ -1,8 +1,18 @@
 Olá!
-Meu nome é Valdeno
-Estudo Analise e Desenvolvimento de Sistemas
-Email: valdeno2011@hotmail.com
 
+##
+
+Meu nome é Valdeno de Oliveira Santos
+
+##
+
+Estudo: Análise e Desenvolvimento de Sistemas 
+
+##
+
+Email: Valdeno2011@hotmail.com
+
+##
 <div>
 <a href="https://github.com/VOS04">
  <img height= "180em" src = "https://github-readme-stats.vercel.app/api?username=VOS04&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
