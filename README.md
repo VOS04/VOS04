@@ -6,7 +6,7 @@ Nome: Valdeno de Oliveira Santos
 
 ##
 
-Estudo: Análise e Desenvolvimento de Sistemas 
+Formação: Análise e Desenvolvimento de Sistemas 
 
 ##
 
